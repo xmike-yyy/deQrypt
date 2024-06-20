@@ -1,4 +1,4 @@
-#deQrypt
+# deQrypt
 
 ### An indicator based stock trend predictor built from scratch given the selected ticker.
 
